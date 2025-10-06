@@ -1,0 +1,18 @@
+# Ignore build and generated files
+build*/
+debug*/
+release*/
+*.o
+*.obj
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.a
+*.so
+*.lib
+*.exp
+*.qrc
+*.moc
+*.pro.user
+Makefile*
